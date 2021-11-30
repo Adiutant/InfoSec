@@ -1,0 +1,19 @@
+﻿  InfoDefence.cpp
+c:\users\rlego\documents\visual studio 2015\projects\infodefence\infodefence\infodefence.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlego\documents\visual studio 2015\projects\infodefence\infodefence\infodefence.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlego\documents\visual studio 2015\projects\infodefence\infodefence\infodefence.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlego\documents\visual studio 2015\projects\infodefence\infodefence\infodefence.cpp(25): warning C4018: '<': signed/unsigned mismatch
+  c:\users\rlego\documents\visual studio 2015\projects\infodefence\infodefence\infodefence.cpp(58): note: see reference to function template instantiation 'bool contains<std::string>(const c,char)' being compiled
+          with
+          [
+              c=std::string
+          ]
+c:\users\rlego\documents\visual studio 2015\projects\infodefence\infodefence\infodefence.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  c:\users\rlego\documents\visual studio 2015\projects\infodefence\infodefence\infodefence.cpp(77): note: see reference to function template instantiation 'std::vector<std::string,std::allocator<_Ty>> deleteChar<std::basic_string<char,std::char_traits<char>,std::allocator<char>>>(std::vector<_Ty,std::allocator<_Ty>>,const s)' being compiled
+          with
+          [
+              _Ty=std::string,
+              s=std::basic_string<char,std::char_traits<char>,std::allocator<char>>
+          ]
+  InfoDefence.vcxproj -> C:\Users\rlego\Documents\Visual Studio 2015\Projects\InfoDefence\Debug\InfoDefence.exe
+  InfoDefence.vcxproj -> C:\Users\rlego\Documents\Visual Studio 2015\Projects\InfoDefence\Debug\InfoDefence.pdb (Full PDB)
